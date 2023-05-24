@@ -3,3 +3,6 @@ Collection of US CyberPatriot training materials and practice images. Also inclu
 
 ## Practice Images
 ### Windows 8.1
+
+## Running .bat files
+Open command prompt as admin > <name>.bat
