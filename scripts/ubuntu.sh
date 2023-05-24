@@ -24,12 +24,12 @@ sudo ufw default allow outgoing
 sudo ufw allow ssh
 
 # Disable unnecessary services
-echo "Disabling unnecessary services..."
-sudo systemctl disable <service_name>
+# echo "Disabling unnecessary services..."
+# sudo systemctl disable <service_name>
 
 # Set strong user passwords
-echo "Setting strong user passwords..."
-sudo passwd <username>
+# echo "Setting strong user passwords..."
+# sudo passwd <username>
 
 # Enable automatic security updates
 echo "Enabling automatic security updates..."
